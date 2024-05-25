@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='jg__navbar'>
       <div className='jg__navbar-links'>
         <div className='jg__navbar-links_logo'>
-          <img src={logo} alt='logo'/>
+          {/*<img src={logo} alt='logo'/>*/}
         </div>
       </div>
     </div>

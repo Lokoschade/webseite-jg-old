@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/webseite-jg/static/js/main.719b1ae9.js",
+    "main.css": "/webseite-jg/static/css/main.ca7dff6d.css",
+    "main.js": "/webseite-jg/static/js/main.17f92b2e.js",
+    "static/media/ratke-gebaeude.jpg": "/webseite-jg/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
+    "static/media/logo_w.png": "/webseite-jg/static/media/logo_w.2ef1b587c0565aa2ca66.png",
     "index.html": "/webseite-jg/index.html",
-    "main.719b1ae9.js.map": "/webseite-jg/static/js/main.719b1ae9.js.map"
+    "main.ca7dff6d.css.map": "/webseite-jg/static/css/main.ca7dff6d.css.map",
+    "main.17f92b2e.js.map": "/webseite-jg/static/js/main.17f92b2e.js.map"
   },
   "entrypoints": [
-    "static/js/main.719b1ae9.js"
+    "static/css/main.ca7dff6d.css",
+    "static/js/main.17f92b2e.js"
   ]
 }

@@ -11,7 +11,7 @@
     flex-direction: column;
 
     margin-right: 3rem;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 .jg__vorstellung-content h1 {
@@ -33,7 +33,8 @@
     line-height: 40px;
     letter-spacing: -0.04em;
 
-    margin-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .jg__vorstellung-content p {
@@ -44,7 +45,7 @@
     font-size: 20px;
     line-height: 27px;
 
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
 .jg__vorstellung-image {
@@ -62,9 +63,11 @@
 
 
 @media screen and (max-width: 1500px) {
-    .jg__vorstellung-content h1 {
+    .jg__vorstellung-content h1{
         white-space: break-spaces;
+        margin-bottom: 1rem;
     }
+
 }
 
 @media screen and (max-width: 1050px) {
@@ -75,17 +78,20 @@
     .jg__vorstellung-content {
         margin: 0 0 3rem;
     }
+
 }
 
 @media screen and (max-width: 650px) {
     .jg__vorstellung {
         padding: 4rem;
     }
-    
+
     .jg__vorstellung h1 {
         font-size: 48px;
         line-height: 60px;
+
     }
+
 
     .jg__vorstellung p {
         font-size: 16px;
@@ -101,6 +107,12 @@
     .jg__vorstellung h1 {
         font-size: 36px;
         line-height: 48px;
+        margin-top: -2rem !important;
+    }
+    .jg__vorstellung h2 {
+        font-size: 18px;
+        white-space: nowrap;
+        margin-bottom: 0;
     }
 
     .jg__vorstellung p {

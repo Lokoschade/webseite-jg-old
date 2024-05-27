@@ -39,14 +39,17 @@ a {
 }
 
 .gradient__text {
-    background: var(--gradien-text);
+    background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .section__padding {
-    padding: 4rem 6rem;
+  padding-top: 4rem;
+  padding-right: 6rem;
+  padding-bottom: 0;
+  padding-left: 6rem;
 }
 
 .section__margin {
@@ -81,7 +84,10 @@ a {
 
   @media screen and (max-width: 700px) {
     .section__padding {
-        padding: 4rem;
+      padding-top: 4rem;
+      padding-right: 4rem;
+      padding-bottom: 0;
+      padding-left: 4rem;
     }
 
     .section__margin {
@@ -91,7 +97,10 @@ a {
 
   @media screen and (max-width: 550px) {
     .section__padding {
-        padding: 4rem 2rem;
+      padding-top: 4rem;
+      padding-right: 2rem;
+      padding-bottom: 0;
+      padding-left: 2rem;
     }
 
     .section__margin {

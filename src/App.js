@@ -1,6 +1,5 @@
 import React from 'react'
-import { Break, Footer, Header } from './containers';
-import { Navbar, Themen, Vorstellung } from './components';
+import { Navbar, Vorstellung, Thema, Problem, Ziele, Stimmen, Footer } from './components';
 import './App.css';
 
 const App = () => {
@@ -8,11 +7,12 @@ const App = () => {
     <div className='App'>
       <div className='gradient__bg'>
         <Navbar />
-        <Header />
+        <Vorstellung />
       </div>
-      <Break />
-      <Vorstellung />
-      <Themen />
+      <Thema />
+      <Problem />
+      <Ziele />
+      <Stimmen />
       <Footer />
     </div>
   )

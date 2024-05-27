@@ -1,0 +1,17 @@
+.jg__problem-feature {
+    display: flex;
+}
+
+.jg__problem-feature .jg__features-container__feature {
+    margin: 0;
+}
+
+.jg__problem-feature .jg__features-container__feature-text {
+    max-width: 700px;
+}
+
+.jg__problem-heading {
+    display: flex;
+
+    margin: 4rem 0 2rem;
+}

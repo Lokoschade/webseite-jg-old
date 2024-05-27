@@ -1,5 +1,6 @@
 .jg__vorstellung {
     display: flex;
+    padding: 4rem 6rem 0 6rem;
 }
 
 .jg__vorstellung-content {
@@ -9,7 +10,8 @@
     align-items: flex-start;
     flex-direction: column;
 
-    margin-right: 5rem;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
 }
 
 .jg__vorstellung-content h1 {
@@ -33,10 +35,11 @@
 }
 
 .jg__vorstellung-image {
-    flex: 1;
+    flex: 0.7;
     display: flex;
     justify-content: center;
     align-items: center;
+    align-self:flex-end;
 }
 
 .jg__vorstellung-image img {
@@ -55,6 +58,10 @@
 }
 
 @media screen and (max-width: 650px) {
+    .jg__vorstellung {
+        padding: 4rem;
+    }
+    
     .jg__vorstellung h1 {
         font-size: 48px;
         line-height: 60px;
@@ -67,6 +74,10 @@
 }
 
 @media screen and (max-width: 490px) {
+    .jg__vorstellung {
+        padding: 4rem 2rem 0 2rem;
+    }
+
     .jg__vorstellung h1 {
         font-size: 36px;
         line-height: 48px;

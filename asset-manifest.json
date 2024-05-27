@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/webseite-jg/static/css/main.ca7dff6d.css",
-    "main.js": "/webseite-jg/static/js/main.17f92b2e.js",
+    "main.css": "/webseite-jg/static/css/main.369adbfd.css",
+    "main.js": "/webseite-jg/static/js/main.6ff783d3.js",
+    "static/media/Kandidaturfoto.png": "/webseite-jg/static/media/Kandidaturfoto.91a4fcad9d01f9674850.png",
     "static/media/ratke-gebaeude.jpg": "/webseite-jg/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
     "static/media/logo_w.png": "/webseite-jg/static/media/logo_w.2ef1b587c0565aa2ca66.png",
     "index.html": "/webseite-jg/index.html",
-    "main.ca7dff6d.css.map": "/webseite-jg/static/css/main.ca7dff6d.css.map",
-    "main.17f92b2e.js.map": "/webseite-jg/static/js/main.17f92b2e.js.map"
+    "main.369adbfd.css.map": "/webseite-jg/static/css/main.369adbfd.css.map",
+    "main.6ff783d3.js.map": "/webseite-jg/static/js/main.6ff783d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca7dff6d.css",
-    "static/js/main.17f92b2e.js"
+    "static/css/main.369adbfd.css",
+    "static/js/main.6ff783d3.js"
   ]
 }

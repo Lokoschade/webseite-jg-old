@@ -6,7 +6,6 @@ import './navbar.css'
 const Menu = () => (
   <>
   <p><a href='#vorstellung'>Über mich</a></p>
-  <p><a href='#thema'>Thema</a></p>
   <p><a href='#problem'>Problem</a></p>
   <p><a href='#ziele'>Ziele</a></p>
   <p><a href='#stimmen'>Stimmen für Jamila</a></p>

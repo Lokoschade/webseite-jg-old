@@ -4,7 +4,7 @@ import Feature from '../feature/Feature'
 
 const Problem = () => {
   return (
-    <div className='jg__problem section__padding'>
+    <div className='jg__problem section__padding' id='problem'>
       <div className='jg__problem-feature'>
         <Feature />
       </div>

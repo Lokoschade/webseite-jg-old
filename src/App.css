@@ -19,19 +19,19 @@ a {
     background: url('./assets/ticket-2974645.jpg') center center no-repat;*/
     
     /* ff 3.6+ */
-    background:-moz-radial-gradient(circle at 100% 100%, #FF242400 0%, #003B36 49%), url('./assets/ratke-gebaeude.jpg');
+    background:-moz-radial-gradient(circle at 100% 100%, #FF242400 0%, #02362A 49%), url('./assets/ratke-gebaeude.jpg');
 
     /* safari 5.1+,chrome 10+ */
-    background:-webkit-radial-gradient(circle at 100% 100%, #FF242400 0%, #003B36 49%), url('./assets/ratke-gebaeude.jpg');
+    background:-webkit-radial-gradient(circle at 100% 100%, #FF242400 0%, #02362A 49%), url('./assets/ratke-gebaeude.jpg');
 
     /* opera 11.10+ */
-    background:-o-radial-gradient(circle at 100% 100%, #FF242400 0%, #003B36 49%), url('./assets/ratke-gebaeude.jpg');
+    background:-o-radial-gradient(circle at 100% 100%, #FF242400 0%, #02362A 49%), url('./assets/ratke-gebaeude.jpg');
 
     /* ie 10+ */
-    background:-ms-radial-gradient(circle at 100% 100%, #FF242400 0%, #003B36 49%), url('./assets/ratke-gebaeude.jpg');
+    background:-ms-radial-gradient(circle at 100% 100%, #FF242400 0%, #02362A 49%), url('./assets/ratke-gebaeude.jpg');
 
     /* global 92%+ browsers support */
-    background:radial-gradient(circle at 100% 100%, #FF242400 0%, #003B36 49%), url('./assets/ratke-gebaeude.jpg');
+    background:radial-gradient(circle at 100% 100%, #FF242400 0%, #02362A 49%), url('./assets/ratke-gebaeude.jpg');
 
     background-size: cover;
     background-repeat: no-repeat;

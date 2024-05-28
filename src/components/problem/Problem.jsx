@@ -4,8 +4,6 @@ import './problem.css'
 const Problem = () => {
   return (
     <div className='jg__problem section__margin' id='problem'>
-      <div className='jg__problem-intro'>
-        <p>Wir, als Studierende, haben ein Recht auf Mitsprache, Information und Transparenz. Wir gestalten die Hochschule mit und lassen nicht zu, dass stillschweigend irreversible Veränderungen, die uns akut betreffen, ohne unser Einverständnis umgesetzt werden.</p>      </div>
       <div className='jg__problem-heading'>
         <h1 className='gradient__text'>Es ist nicht in Ordnung, dass</h1>
       </div>

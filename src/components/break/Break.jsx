@@ -8,7 +8,7 @@ const Break = () => {
         <div>
             <img src={hs_logo}></img>
         </div>
-        </div>
+    </div>
   )
 }
 

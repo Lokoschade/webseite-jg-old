@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Vorstellung, Problem, Ziele, Stimmen, Footer } from './components';
+import { Navbar, Vorstellung, Problem, Ziele, Stimmen, Footer, Break } from './components';
 import './App.css';
 
 const App = () => {
@@ -9,6 +9,7 @@ const App = () => {
         <Navbar />
         <Vorstellung />
       </div>
+      <Break />
       <Problem />
       <Ziele />
       <Stimmen />

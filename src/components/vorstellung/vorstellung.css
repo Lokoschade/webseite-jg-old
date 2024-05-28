@@ -62,7 +62,7 @@
 }
 
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1600px) {
     .jg__vorstellung-content h1{
         white-space: break-spaces;
         margin-bottom: 1rem;
@@ -89,7 +89,6 @@
     .jg__vorstellung h1 {
         font-size: 48px;
         line-height: 60px;
-
     }
 
 
@@ -111,7 +110,6 @@
     }
     .jg__vorstellung h2 {
         font-size: 18px;
-        white-space: nowrap;
         margin-bottom: 0;
     }
 

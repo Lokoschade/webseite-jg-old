@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/webseite-jg/static/css/main.dcc2c9a7.css",
-    "main.js": "/webseite-jg/static/js/main.95f42f70.js",
-    "static/media/Kandidaturfoto.png": "/webseite-jg/static/media/Kandidaturfoto.91a4fcad9d01f9674850.png",
+    "main.css": "/webseite-jg/static/css/main.44380034.css",
+    "main.js": "/webseite-jg/static/js/main.6c1ce71f.js",
+    "static/media/Kandidaturfoto.png": "/webseite-jg/static/media/Kandidaturfoto.b82127a8ff7eda01fdda.png",
     "static/media/ratke-gebaeude.jpg": "/webseite-jg/static/media/ratke-gebaeude.2d67a4037d99b8c755b7.jpg",
+    "static/media/hsa_logo_white.png": "/webseite-jg/static/media/hsa_logo_white.72e00f70fa3e62153f22.png",
     "static/media/logo_w.png": "/webseite-jg/static/media/logo_w.e093394c2b669d135109.png",
     "index.html": "/webseite-jg/index.html",
-    "main.dcc2c9a7.css.map": "/webseite-jg/static/css/main.dcc2c9a7.css.map",
-    "main.95f42f70.js.map": "/webseite-jg/static/js/main.95f42f70.js.map"
+    "main.44380034.css.map": "/webseite-jg/static/css/main.44380034.css.map",
+    "main.6c1ce71f.js.map": "/webseite-jg/static/js/main.6c1ce71f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcc2c9a7.css",
-    "static/js/main.95f42f70.js"
+    "static/css/main.44380034.css",
+    "static/js/main.6c1ce71f.js"
   ]
 }

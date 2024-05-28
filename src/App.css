@@ -50,7 +50,9 @@ a {
 }
 
 .section__margin {
-    margin: 4rem 6rem;
+  margin-right: 6rem;
+  margin-bottom: 4rem;
+  margin-left: 6rem;
 }
 
 .scale-up-center {

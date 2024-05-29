@@ -26,7 +26,22 @@
     flex-direction: row;
 }
 
+.jg__navbar-lang {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.jg__navbar-lang button {
+    background: none;
+    border: none;
+    min-width: 30px;
+
+    cursor: pointer;
+}
+
 .jg__navbar-links_container p,
+.jg__navbar-lang p,
 .jg__navbar-menu_container p {
     color: var(--color-text);
     font-family: var(--font-family);

@@ -87,9 +87,7 @@ a {
     }
 
     .section__margin {
-      margin-right: 4rem;
-      margin-bottom: 4rem;
-      margin-left: 4rem;
+      margin: 0 4rem 4rem 4rem;
     }
   }
 
@@ -99,6 +97,6 @@ a {
     }
 
     .section__margin {
-        margin: 4rem 2rem;
+      margin: 0 2rem 4rem 2rem;
     }
   }

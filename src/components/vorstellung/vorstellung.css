@@ -35,7 +35,6 @@
     line-height: 40px;
     letter-spacing: -0.04em;
 
-    margin-bottom: 2rem;
 }
 
 .jg__vorstellung-content p {
@@ -99,17 +98,16 @@
 
 @media screen and (max-width: 490px) {
     .jg__vorstellung {
-        padding: 4rem 2rem 0 2rem;
+        padding: 2rem 2rem 0 2rem;
     }
 
     .jg__vorstellung h1 {
         font-size: 36px;
         line-height: 48px;
-        margin-top: -2rem !important;
     }
     .jg__vorstellung h2 {
         font-size: 18px;
-        margin-bottom: 0;
+        line-height: 28px;
     }
 
     .jg__vorstellung p {

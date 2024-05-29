@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import logo from '../../assets/logo_w.png';
+import german from '../../assets/german flag.svg';
+import english from '../../assets/uk flag.svg';
 import './navbar.css'
 
 const Menu = () => (
@@ -22,6 +24,14 @@ const Navbar = () => {
         <div className='jg__navbar-links_container'>
           <Menu/>
         </div>
+      </div>
+      <div className='jg__navbar-lang'>
+        <button type='button'>
+          <img src={german} alt='Deutsch'/>
+        </button>
+        <button type='button'>
+          <img src={english} alt='English'/>
+        </button>
       </div>
       <div className='jg__navbar-menu'>
         {toggleMenu

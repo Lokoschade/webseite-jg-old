@@ -6,7 +6,7 @@ const Break = () => {
   return (
     <div className='jg__break section__padding'>
         <div>
-            <img src={hs_logo}></img>
+            <img src={hs_logo} alt='HS-Anhalt'></img>
         </div>
     </div>
   )
